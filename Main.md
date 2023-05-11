@@ -30,3 +30,4 @@ int[] input2 = {1, 2, 3};
 ArrayExamples.reverseInPlace(input2);
 assertArrayEquals(new int[]{2, 2, 1}, input2); 
 ```
+<img src="fail.png" width="500" height="300"/>
