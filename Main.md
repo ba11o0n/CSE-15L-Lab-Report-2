@@ -3,7 +3,7 @@
 <img src="L2_Code.png" width="600" height="300"/>
 
 ### **Examples** 
-<img src="L2_s1.png" width="800" height="500"/>
+<img src="L2_s1.png" width="800" height="300"/>
 
 ## **Part 2: A Bug** 
 #### The code snippet from lab 3. 
